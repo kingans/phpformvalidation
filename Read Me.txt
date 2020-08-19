@@ -1,0 +1,11 @@
+***********create a database**********
+1) install xamp in your pc or macbook
+2) go to localhost/phpmyadmin
+3) create new database for it my is "register"
+4)  to the db.php file as replace is it. that put your database name where you see register.
+
+5) create a table. Use "users" as the name of the table to avoid stress recoding it.
+6) create columns in the table.
+     id, name, emai, password
+
+or import the register.sql file
